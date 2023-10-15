@@ -1,0 +1,24 @@
+Smartphone <<abstract>
+----------------------
++ Numero: string
+- Modelo: string
+- IMEI: string
+- Memoria: int
+----------------------
++ Ligar()
++ ReceberLigacao()
++ InstalarAplicativo(string nome) <<abstract>>
+
+==============================================
+Nokia
+------------------------------
+
+------------------------------
++ InstalarAplicativo(String nome)
+
+==============================================
+Iphone
+------------------------------
+
+------------------------------
++ InstalarAplicativo(String nome)
